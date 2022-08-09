@@ -11,7 +11,7 @@ global.owner = ['6289516947204','6281364150144']
 global.premium = ['6289516947204']
 global.youtube = 'https://saweria.co/IyanMd'
 global.ownername = '𝚒𝚢𝚊𝚗,Ryuu'
-global.botname ='𝚁𝙲𝚃𝙸 𝙱𝙾𝚃-Md'
+global.botname ='𝚁𝙲𝚃𝙸 𝙱𝙾𝚃Md'
 global.donasi = {
     saweria: 'https://saweria.co/IyanMd',
     nomor: '089516947204'
